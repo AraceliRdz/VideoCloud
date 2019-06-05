@@ -58,10 +58,10 @@
                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Videos Grabados</a>
                     <ul class="collapse list-unstyled" id="pageSubmenu">
                         <li>
-                            <a href="trigun1.html">Cámara 1</a>
+                            <a href="trigun1.php">Cámara 1</a>
                         </li>
                         <li>
-                            <a href="video7.html">Cámara 2</a>
+                            <a href="video7.php">Cámara 2</a>
                         </li>
                     </ul>
                 </li>
