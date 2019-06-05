@@ -93,7 +93,7 @@
             <p align="justify">Bienvenido a la opción que Video Cloud ofrece donde puede ver en directo lo que esta pasando 
             en la cámara, así no se perdera de nada, no importa el lugar donde se encuentre mientras tenga un
             dispositivo con conexión a Internet.</p>
-            <a href="http://192.168.1.70:8080/" target="_blank">Ir al live Stream</a>
+            <a href="http://192.168.1.147:8080/" target="_blank">Ir al live Stream</a>
  
             <div class="line"></div>
     </div>
